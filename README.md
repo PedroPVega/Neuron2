@@ -16,5 +16,18 @@ Ce projet a été réalisé entre les mois de janvier et avril 2025. Il a évoul
 Vous êtes maintenant sur le site itch.io, plateforme permettant à developpeurs, notament de jeux vidéos, de télécharger leurs créations sur internet. 
 La façon par laquelle vous allez installer l'application dépendra de votre OS (Operating System)
 
-### Pour les MacOS :
+### Pour les utilisateurs de MacOS : 
+- Disclaimer : Il se peut que cette méthode soit bloqué par l'ordinateur.
 1. Télécharger le fichier Neuron2
+2. Decomprimer le fichier (en cliquant 2 fois click gauche). L'application sera créé dans le même dossier que le fichier comprimé. 
+3. Lancer l'application
+- Disclaimer : l'application a été bien téléchargé, mais à cause des mesures de sécurité de Mac, il se peut que l'ouverture de l'application soit bloqué. Des mesures pour outrepasser ce blocage sont en cours de recherche.
+
+### Pour les utilisateurs Windows :
+1. Télécharger le fichier Neuron2.zip
+2. Decomprimer le fichier. Un dossier Neuron2 sera créé dans le même dossier que le fichier comprimé.
+3. Ouvrir le dossier Neuron2 et lancer l'executable (en cliquant 2 fois click gauche).
+4. Un pop up windows apparaîtra devant vous. L'execution de l'application a été mise en pause.
+5. Cliquer sur le petit texte 'plus de renseignements'
+6. Cliquer sur lancer quand même.
+7. Le logiciel devrais désormais être ouvert. Amusez-vous bien!
