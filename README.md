@@ -8,6 +8,8 @@ Tuteur : Jean-Marc Salotti
 Jury de soutenance : Jean-Marc Salotti et Théodore Letouzé
 ## Rapport de projet
 Le rapport n'étant pas prêt avant la date limite de rendu de projet, un premier dépôt sera réalisé sans le rapport. Le téléchargement des livrables reste possible, et le test de l'application est possible dés maintenant!
+Le suivi du projet pourra être effectué sur le repositoire GitHub suivant : 
+
 ## Description du projet
 Ce projet a été réalisé entre les mois de janvier et avril 2025. Il a évoulué tout le long des 4 mois. Le rendu final se resume en un logiciel développé dans le moteur Unity, qui permet à l'utilisateur de 'jouer' avec 2 modèles de machine learning :
 - KMeans (ou KMoyennes) : un algorithme d'entraînement non supervisé qui permet de clusteriser des données, c-a-d de les classifier sans connaître les 'labels' qui vont avec.
