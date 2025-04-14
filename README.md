@@ -10,6 +10,10 @@ Jury de soutenance : Jean-Marc Salotti et Théodore Letouzé
 Ce projet a été réalisé entre les mois de janvier et avril 2025. Il a évoulué tout le long des 4 mois. Le rendu final se resume en un logiciel développé dans le moteur Unity, qui permet à l'utilisateur de 'jouer' avec 2 modèles de machine learning :
 - KMeans (ou KMoyennes) : un algorithme d'entraînement non supervisé qui permet de clusteriser des données, c-a-d de les classifier sans connaître les 'labels' qui vont avec.
 - Perceptron multi-couches. Un simple réseau de neurones permettant de predire le label de données d'entrée après avoir été entraîné en utilisant la descente de gradient. Dans notre cas, les fonctions d'activation du réseau sont la sigmoïde pour les couches cachés et SoftMax pour la couche de sortie.
+## Code source
+Dans ce github, j'inclus l'intégralité du code réalisé le long du projet.
+- Les Scripts du projet Unity, dans le dossier 'Scripts'
+- Le projet visual studio code où tous les algorithmes d'entraînement on été testés, dont le nom du dossier est 'Unsupervised_Learning'. Réalisé en .NET v8
 ## Instructions d'installation
 ### Suivre le lien ci-dessous
 - https://pedro-pablo-vega.itch.io/neuron2
